@@ -355,7 +355,7 @@ def solve_c6(ballots, candidates):
 
 
 # ════════════════════════════════════════════════════════════════════════════
-#  COMPLEX 7 — "Curved Grades"
+#  COMPLEX 7 — "Curved Grades   with Relative Boundaries"
 # ════════════════════════════════════════════════════════════════════════════
 #  Given a list of integer scores, assign letter grades RELATIVE to the class
 #  average (avg = sum // len, integer division). Boundaries:
