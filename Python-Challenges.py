@@ -350,7 +350,7 @@ def solve_c5(grid):
 #  # TWIST: ____________________________________________________________
 #  # TRACE: round 1 counts are A=__ B=__ C=__ ; tie -> eliminate ____
 def solve_c6(ballots, candidates):
-    # your code here
+    
     pass
 
 
