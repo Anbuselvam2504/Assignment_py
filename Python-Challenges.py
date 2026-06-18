@@ -344,7 +344,7 @@ def solve_c5(grid):
 #  LAST. Return the winning candidate.
 #
 #  Canary input:
-#    ballots = [["A","B","C"],["B","A","C"],["C","A","B"]]
+#    ballots = [["A","B","C`"],["B","A","C"],["C","A","B"]]
 #    candidates = ["A","B","C"]
 #
 #  # TWIST: ____________________________________________________________
